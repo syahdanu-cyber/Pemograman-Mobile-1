@@ -37,14 +37,14 @@
         android:inputType="phone"
         android:layout_marginBottom="16dp"/>
 
-    <!-- Button untuk pilih tanggal jadian -->
+    <!-- Button untuk pilih tanggal janjian -->
     <Button
         android:id="@+id/btnDate"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Pilih Tanggal"/>
 
-    <!-- Button untuk pilih waktu jadian-->
+    <!-- Button untuk pilih waktu janjian-->
     <Button
         android:id="@+id/btnTime"
         android:layout_width="match_parent"
@@ -66,8 +66,8 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="24dp"
         android:gravity="center"
-        android:text="SEMOGA LANGGENG"
-        android:textColor="#FF0000"
+        android:text="JANGAN LUPA YAAA"
+        android:textColor="#FF00F2FF"
         android:textSize="30sp"
         android:textStyle="bold" />
 
